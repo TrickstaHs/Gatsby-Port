@@ -62,15 +62,7 @@ export const projectsData = [
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: 'https://snack.expo.io/@trickstahs/pedra-papel-tesoura-lagarto-e-spock',
-    repo: 'https://snack.expo.io/@trickstahs/pedra-papel-tesoura-lagarto-e-spock', // if no repo, the button will not show up
-  },
+  
 ];
 
 // CONTACT DATA
