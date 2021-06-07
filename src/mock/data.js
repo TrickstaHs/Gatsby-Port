@@ -59,7 +59,7 @@ export const projectsData = [
     title: 'Pedra papel tesoura lagarto e Spock',
     info: 'Pedra Papel Tesoura so que mais interessante!!',
     info2: 'Um dos primeiros app em React-Native que fiz',
-    url: '',
+    url: 'https://snack.expo.io/@trickstahs/pedra-papel-tesoura-lagarto-e-spock',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   
