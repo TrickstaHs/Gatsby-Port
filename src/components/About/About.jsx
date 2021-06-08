@@ -43,11 +43,11 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Apaixonado por tecnologia, não foi dificil descobrir que eu queria ser um futuro DEV, desde entao sigo minha batalha para cumprir meus objetivos.'}
+                    'Sempre fui apaixonado por tecnologia e não foi dificil descobrir eu querai ser um futuro programador, desde entao tracei objetivos e metas.'}
                 </p>
                
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Este foi um resumo Geral para complemento do meu Portifolio'}
+                  {paragraphThree || 'Atualmente estou aprendendo REACTJS, REACT-NATIVE. Que são linguagens que apresentam uma experiência mais fluida, além de ser flexível e permitir que todos os códigos sejam separados e utilizados como componentes reutilizáveis. '}
                 </p>
                 
                 {resume && (

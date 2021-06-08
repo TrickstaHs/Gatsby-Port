@@ -21,7 +21,7 @@ const Contact = () => {
               target="_blank"
               rel="noopener noreferrer"
               className="cta-btn cta-btn--resume"
-              href={email ? `mailto:${email}` : 'https://www.facebook.com/pedro.ricardo.94'}
+              href={email ? `mailto:${email}` : 'https://wa.me/16999830100'}
             >
               {btn || "Vamos Conversar"}
             </a>

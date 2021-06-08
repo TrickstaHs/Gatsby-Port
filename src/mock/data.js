@@ -37,6 +37,24 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'project6.jpg',
+    title: 'NavBar!',
+    info: 'Crio varios componentes separados para fixação durante o aprendizado. Esta e uma delas!',
+    info2: '',
+    url: 'https://github.com/TrickstaHs/navbar-responsiva',
+    repo: 'https://github.com/TrickstaHs/navbar-responsiva', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'Project4.jpg',
+    title: 'Pokedex',
+    info: 'Uma forma simples de interagir com as propriedades do React-router-dom',
+    info2: '',
+    url: 'https://github.com/TrickstaHs/Pokedex',
+    repo: 'https://github.com/TrickstaHs/Pokedex', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'project1.jpg',
     title: 'To do ! ( Super Criativo )',
     info: 'Simples app para gerar uma lista de afazeres.',
@@ -60,7 +78,7 @@ export const projectsData = [
     info: 'Pedra Papel Tesoura so que mais interessante!!',
     info2: 'Um dos primeiros app em React-Native que fiz',
     url: 'https://snack.expo.io/@trickstahs/pedra-papel-tesoura-lagarto-e-spock',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://snack.expo.io/@trickstahs/pedra-papel-tesoura-lagarto-e-spock', // if no repo, the button will not show up
   },
   
 ];
@@ -100,5 +118,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
