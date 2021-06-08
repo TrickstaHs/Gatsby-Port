@@ -65,7 +65,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project2.jpg',
-    title: 'Add Produto ( comunicacao com Firebase )',
+    title: 'Add Produto ( comunicação com Firebase )',
     info: 'Aplicativo que cadastra produtos no objeto products do Realtime Database',
     info2: '', 
     url: 'https://snack.expo.io/@trickstahs/adicionar',
@@ -75,8 +75,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project3.jpg',
     title: 'Pedra papel tesoura lagarto e Spock',
-    info: 'Pedra Papel Tesoura so que mais interessante!!',
-    info2: 'Um dos primeiros app em React-Native que fiz',
+    info: 'O pedra papel tesoura com um plot twist !',
+    info2: 'Um de meus primeiros projeto em react-native',
     url: 'https://snack.expo.io/@trickstahs/pedra-papel-tesoura-lagarto-e-spock',
     repo: 'https://snack.expo.io/@trickstahs/pedra-papel-tesoura-lagarto-e-spock', // if no repo, the button will not show up
   },
