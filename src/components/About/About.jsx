@@ -39,11 +39,11 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'Pazer me chamo Pedro Ricardo, tenho 22 anos e sou de Ituverava Interior de SP'}
+                    'Prazer me chamo Pedro Ricardo, tenho 22 anos e sou de Ituverava Interior de SP'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Sempre fui apaixonado por tecnologia e não foi dificil descobrir eu querai ser um futuro programador, desde entao tracei objetivos e metas.'}
+                    'Sempre fui apaixonado por tecnologia e não foi dificil descobrir que essa era a minha escolha, me tornar um programador, desde entao tracei objetivos e metas independente do desafio.'}
                 </p>
                
                 <p className="about-wrapper__info-text">
